@@ -5,3 +5,4 @@ This is a collection of code and components that I have found useful while build
 ## Sections
 
 - [SDK tools (Dockerfile for SDK plugin environment)](./sdk)
+- [Useful common components - Freemarker code](./components)
